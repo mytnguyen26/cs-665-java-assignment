@@ -1,6 +1,8 @@
-# Project Template
+# CS665 Assignment 1 - Automatic Beverage Vending Machine Application
+Author: My Nguyen
+Email: mytng@bu.edu
 
-This is a Java Maven Project Template
+In this project we implement a software that handles the brew process of different coffee and tea beverages
 
 
 # How to compile the project
